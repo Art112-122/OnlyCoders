@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="876bfec0-8ef1-42dc-b297-a00f4a4c0e76" name="Changes" comment="Sobaka pishi Cod">
+      <change afterPath="$PROJECT_DIR$/imgs/css_24dp_E8EAED_FILL0_wght300_GRAD200_opsz24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/html_24dp_E8EAED_FILL0_wght300_GRAD200_opsz24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/javascript_24dp_E8EAED_FILL0_wght300_GRAD200_opsz24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/php_24dp_E8EAED_FILL0_wght300_GRAD200_opsz24.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testRoute.py" beforeDir="false" afterPath="$PROJECT_DIR$/testRoute.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732100017406</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Sobaka pishi Cod">
+      <option name="closed" value="true" />
+      <created>1732123973264</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732123973264</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
