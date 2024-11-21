@@ -20,20 +20,17 @@
 
 <div class="columns is-multiline">
     <div class="column post is-2 ">
-        <aside class="menu px-2">
-  <p class="menu-label">Docs</p>
+        <aside class="menu px-2 box">
+  <p class="menu-label">Subscribe</p>
   <ul class="menu-list">
+    {% if subscribions!=None %}
+    {% for sub in subscribions %}
+    <li><a>Python</a></li>
+    {% endfor %}
+    {% endif %}
+    {{pagedown}}
+    {{pagedown}}
     <li><a><strong class="px-2">All</strong></a></li>
-    <li><a><span class="icon-text">
-        <span class="icon">
-        <img class="image is-32x32 " src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" alt="...">
-        </span>
-        <span>Python</span>
-        </span></a></li>
-    <li><a>Java</a></li>
-    <li><a>PHP</a></li>
-    <li><a>HTML</a></li>
-    <li><a>CSS</a></li>
 
 
   </ul>
