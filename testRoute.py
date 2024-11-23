@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, make_response
+from flask import Flask, render_template, request, make_response, redirect
 
 app = Flask(__name__)
 
@@ -8,9 +8,13 @@ def start():
     return render_template("home.html")
 
 
+
+
+
+
 # @app.route('/login')
 # def set_cookie():
-#     # Створення словника з кількома ключами
+#
 #
 #
 #
